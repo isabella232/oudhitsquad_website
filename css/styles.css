@@ -291,10 +291,11 @@ font-size: 11px;
 
 nav{
 	position:relative;
-	width:600px;
+	width:1000px;
 	height:40px;
 	margin:0 auto;
 	padding-top: 40px;
+	padding-left: 400px;
 }
 
 nav ul li{

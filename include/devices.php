@@ -42,7 +42,6 @@
 	<div style="float: right; width: 33%;">
 		<p><b class="green">Virgin Mobile</b>
 			   <li><a href="#">Virgin Mobile Venture</a></li>
-			   <li><a href="#">Virgin Mobile Samsung Galaxy Victory</a></li>
 
 		<p><b class="green">ZTE</b>
 			   <li><a href="#">ZTE Score M</a></li>

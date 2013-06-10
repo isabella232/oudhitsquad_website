@@ -3,7 +3,7 @@
                  <h1>Latest News</h1>
 			  <div class="line2"></div><!-- dotted line -->
 <?php
-require('blog/wp-blog-header.php'); ?>
+require('wordpress/wp-blog-header.php'); ?>
 
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 

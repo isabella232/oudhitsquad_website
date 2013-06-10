@@ -122,7 +122,7 @@ p.style1 {font: 18px/27px 'BebasNeueRegular', Arial, sans-serif;}
 	<li><a href="devices.php">Devices</a></li>
 	<li><a href="blog.php">Blog</a></li>
     <li><a href="contact.php">Contact</a></li>
-
+    <li><a href="android/">Downloads</a></li>
     </ul>
     </nav>
   </div>
