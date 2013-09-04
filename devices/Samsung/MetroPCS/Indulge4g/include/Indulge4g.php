@@ -1,7 +1,7 @@
 		<div class="container">
           <div class="spec">
 		    <div class="spec-padding">
-<b class="green">Attain 4G Specifications</b>
+<b class="green">Indulge 4G Specifications</b>
 <tr>
 <td>
 <table style="margin:0 auto; font-size: 90%" cellpadding="0">
