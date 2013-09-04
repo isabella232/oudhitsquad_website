@@ -1,0 +1,9 @@
+Copy Template directory and rename it to the manufacturer of the device.
+
+Then rename the carrier_name directory to the devices carrier.
+
+Then rename the devicename directory to the device name.
+
+Then rename the devicename.php in /include to the device name.
+
+The make any needed edits the the device php file.

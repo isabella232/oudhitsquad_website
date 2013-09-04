@@ -10,8 +10,8 @@
 		<p><b class="green">Huawei</b>
 	    <p><b class="green">LG</b>
 			<li ><a href="devices/LG/MetroPCS/Connect4g/index.php">LG Connect 4G</a>
-			   <li><a href="#">LG Esteem</a></li>
-			   <li><a href="#">LG Motion 4G</a></li>
+			   <li><a href="devices/LG/MetroPCS/Esteem/index.php">LG Esteem</a></li>
+			   <li><a href="devices/LG/MetroPCS/Motion/index.php">LG Motion 4G</a></li>
 			   <li><a href="#">LG Lucid</a></li>
 			   <li><a href="#">LG Viper 4G</a></li>
 			   <li><a href="#">LG Optimus M+</a></li>
